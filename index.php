@@ -78,7 +78,7 @@ session_start();
             </div>
         </div>
         <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="images/logo.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
